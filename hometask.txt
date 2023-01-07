@@ -18,10 +18,8 @@ fix readme
 
 Merge remote-tracking branch 'origin/boots' into boots_buttons
 Merge remote-tracking branch 'origin/buttons' into boots_buttons
-
-Merge remote-tracking branch 'origin/boots' into boots_buttons
-Merge remote-tracking branch 'origin/buttons' into boots_buttons
 Merge remote-tracking branch 'origin/hat'
 Merge branch 'boots_buttons'
+
 added txt
 Merge pull request #1 from awooodev/master
