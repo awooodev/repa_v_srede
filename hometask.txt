@@ -7,3 +7,21 @@ index 6988c8d..975e13a 100644
 +Create release branch with human (master) in boots (boots branch) and hat (hat branch).
 
  You must receive some image as in demo branch
+
+Комментарии из коммитов (с самого старого по самый новый):
+init
+heat added
+boots
+README added
+dots
+fix readme
+
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/hat'
+Merge branch 'boots_buttons'
+added txt
+Merge pull request #1 from awooodev/master
